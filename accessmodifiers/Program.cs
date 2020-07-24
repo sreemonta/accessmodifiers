@@ -28,6 +28,8 @@ namespace accessmodifiers
             oProtectedInternalClass.name = "Suman";
             oProtectedInternalClass.print();
 
+            Console.WriteLine("This is the end");
+
             Console.ReadKey();
         }
     }
